@@ -12,4 +12,3 @@ person1 = Person("Panda", 21)
 person1.show_id()
 
 
-        
